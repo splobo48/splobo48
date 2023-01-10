@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @splobo48
-- 👀 I’m interested in building products which improve lifes 
+- 👀 I’m interested in building products which improve lives 
 - 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on a opensource project. 
 - 📫 How to reach me at shailesh.lobo@gmail.com
